@@ -1,5 +1,5 @@
 # ECE243 Karaoke Program
-This is a karaoke program that allows users to sing along to the song "My Heart Will Go On" by Celine Dion. It is written in C and operated by the Intel NIOS II Processor in FPGA.
+This karaoke program enables users to sing along with Celine Dion's "My Heart Will Go On." Developed in C, it is powered by the Intel NIOS II Processor within an FPGA.
 
 
 ## Features
