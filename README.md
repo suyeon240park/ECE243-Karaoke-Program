@@ -12,8 +12,10 @@ This is a karaoke program that allows users to sing along to the song "My Heart 
 - KEY Operations: Use keys to start or restart the program.
 - HEX Operations: Shows how well the user input pitches match with the original song pitches.
 
+
 ## Demo
 [Demo Video](https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master)
+
 
 ## Usage
 1. Ensure the FPGA hardware is properly connected and configured.
@@ -22,6 +24,7 @@ This is a karaoke program that allows users to sing along to the song "My Heart 
 4. Sing along with the song, aiming to match the pitches for higher scores.
 5. View the final score at the end of the performance.
 6. To restart the program, press KEY3.
+
 
 ## Acknowledgments
 The YIN algorithm used for pitch detection was referenced from [ashokfernandez/Yin-Pitch-Tracking](https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master).
