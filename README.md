@@ -14,7 +14,7 @@ This is a karaoke program that allows users to sing along to the song "My Heart 
 
 ## Demo
 Demo video:
-[]
+[(https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master)]
 
 ## Usage
 1. Ensure the FPGA hardware is properly connected and configured.
@@ -25,4 +25,4 @@ Demo video:
 6. To restart the program, press KEY3.
 
 ## Acknowledgments
-The YIN algorithm used for pitch detection was provided by [https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master].
+The YIN algorithm used for pitch detection was provided by [(https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master)].
