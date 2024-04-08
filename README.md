@@ -5,8 +5,8 @@ This is a karaoke program that allows users to sing along to the song "My Heart 
 ## Features
 - Song Playback: Plays the instrumental version of "My Heart Will Go On" for users to sing along with.
 - Pitch Detection: Utilizes the YIN algorithm to accurately detect the pitch of the acapella version of the song and preprocesses the pitch levels to fit into the VGA screen dimensions before running the program.
-- Voice Input Analysis: Analyzes user voice input using the Zero-Crossing Rate method to adjust the speed of the program, optimizing performance for FPGA operation, while being less accurate than the YIN algorithm. Displays and animates the user pitch icon on the screen.
 - Animation: Displays the original pitch levels on the screen and animates them across the screen as the song progresses.
+- Voice Input Analysis: Analyzes user voice input using the Zero-Crossing Rate method. The YIN algorithm, known for its precise pitch detection, carries a high computational load, which can slow down processing. This could disrupt music playback on the FPGA during pitch calculation. To address this, we opted for the Zero-Crossing Rate method, which effectively mitigates the problem without sacrificing accuracy. Furthermore, the analyzed pitch level is visually represented by an animated square icon.
 - Score Calculation: Calculates the score based on the similarity of the user input and original song pitches and displays during the play and at the ending screen.
 - Lyrics: Displays lyrics at the right timing.
 - KEY Operations: Use keys to start or restart the program.
