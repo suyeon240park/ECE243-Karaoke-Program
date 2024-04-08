@@ -14,7 +14,7 @@ This karaoke program enables users to sing along with Celine Dion's "My Heart Wi
 
 
 ## Demo
-> https://www.youtube.com/watch?v=2wIzTREtuoM
+> https://youtu.be/x1BUx8fDzpE
 
 ![beaver](https://github.com/suyeon240park/ECE241/assets/123034036/558bb87c-e5d2-4657-989a-3a2fcd0c4081)
 
