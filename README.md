@@ -29,4 +29,4 @@ This karaoke program enables users to sing along with Celine Dion's "My Heart Wi
 
 
 ## Acknowledgments
-The YIN algorithm used for pitch detection was referenced from [ashokfernandez/Yin-Pitch-Tracking](https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master).
+The YIN algorithm used for pitch detection was referenced from the [YIN algoirthm paper](http://audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf) and repository [ashokfernandez/Yin-Pitch-Tracking](https://github.com/ashokfernandez/Yin-Pitch-Tracking/tree/master).
